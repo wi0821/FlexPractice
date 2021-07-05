@@ -1,0 +1,128 @@
+/*CSS 樣式重置*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*調整區*/
+
+.container {
+	display: flex;
+	flex-direction: column;
+	width: 1280px;
+	margin: 0 auto;
+	margin-top: 8px;
+}
+
+.line {
+	display: flex;
+	padding-bottom: 48px;
+}
+
+.cardSm, .cardMd {
+	background: #e7eeea;
+	display: flex;
+	padding: 18px 32px 24px 32px;
+}
+
+.imgSm {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	padding-right: 8px;
+	width: 15%;
+}
+
+.content h2 {
+	font-weight: bold;
+	font-size: 24px;
+	padding-top: 18px;
+	color: #4e6754;
+}
+
+.content p {
+	line-height: 1.5;
+	font-weight: 600;
+	font-size: 14px;
+	color: #4e6754;
+	padding: 16px 0;
+}
+
+.cardMd {
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.contentMd {
+	text-align: center;
+}
+
+.lineLg {
+	display: flex;
+	flex-direction: column;
+}
+
+.cardLg {
+	display: flex;
+	background: #e7eeea;
+	padding: 16px 10px;
+}
+
+.cardLg img {
+	padding: 0 8px;
+}
+
+.contentLg {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.contentLg p {
+	font-size: 14px;
+}
+
+.cardRvs {
+	flex-direction: row-reverse;
+}
