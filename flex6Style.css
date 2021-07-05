@@ -1,0 +1,121 @@
+/*CSS 樣式重置*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*調整區*/
+
+body {
+    font-family: "PingFang TC", "Microsoft Jenghei","sans-serif";
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	width: 875px;
+	margin: 0 auto;
+	border: 10px solid #37523d;
+	
+	
+}
+
+.header {
+	display: flex;
+	background: #e7eeea;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 24px;
+	margin-bottom: 30px;
+}
+
+
+.header a {
+	font-weight: 500;
+	color: #405a46;
+	text-decoration: none;
+}
+
+.header a:hover {
+	color:#65A674;
+}
+
+.content {
+	display: flex;
+}
+
+.pic {
+	padding:0 15px 30px 50px;
+}
+
+.intro {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	padding: 0 50px 30px 50px;
+}
+
+.introText h2 {
+	font-weight: bold;
+	font-size: 24px;
+	padding: 24px 0;
+}
+
+.introText p {
+	line-height: 1.5;
+	font-weight: 600;
+}
+
+.introText span {
+	padding-left: 16px;
+}
+
+.introLink a {
+	font-size: 24px;
+	padding-left: 8px;
+	color: #37523d;
+}
+
+.introLink a:hover {
+	color:#65A674;
+}
