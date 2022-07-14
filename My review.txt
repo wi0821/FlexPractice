@@ -1,13 +1,21 @@
-The first half of 2022 is around the corner, there are so mant memorable moments.
+The first half of 2022 is around the corner, there are so many memorable moments.
 
-I joined the CMB in the January and get familiar with the BAU soon
+I joined CMB in January and trained with the BAU in the short term, getting familiar with some tools such as Sitecore and SharePoint.
 
-我在1月的時候加入CMB然後快速熟悉了BAU的業務範疇，以及對於一些使用sitecore、sharepoint這些工具有了系統性的了解以及快速上手
+In my second week of joining CMB, I become the host of team meetings. Although I was very nervous, I Appreciate everyone gave me enough patience and encouragement to finish it smoothly.
 
-團隊成員的人都非常好，在我遇到任何問題的時候都能夠給我全面的指導，並時常關係我加入CMB的適應程度，老實說我非常喜歡這樣的工作範圍
+I maintained my work rate within the required percentage, delivered the tickets accurately and efficiently, and followed the First come first serve rule.
 
-在2月我開始獨立接task，接觸了許多business，由於剛好這段時間大灣區的website有許多活動，我也順勢不斷的在跟這些business來往以及pick他們的task，所以香港澳門大陸地區等大灣區的business對我處理task的效率、按照需求的完成度都表示了肯定
+I respond to the questions or requests of clients shortly if they reach me via Jabber, Email, or ticket, and make sure it will publish in the required time. If the issues I can't handle I will contact a relevant team as soon as possible, and continue to follow ensure that the problem is solved.
 
-接著與Wally, Vivi and Katherine參與了CMB campaign developer的Project之中，從一開始的參與測試到後期的Form developer的改動，都皆有參與，除了能夠幫助Wally分擔在Project上的負擔，也就此達成在project上有所貢獻
+After I release from being shadowed and do the BAU task independently, there are some series of campaigns in the GBA region(mainland China, Hong Kong, and Macau), therefore I have the opportunity to reach out to those tasks and clients and also earned recognition for my high efficiency and high quality from them.
 
-雖然從Q2開始CMB突然就忙碌了起來，感覺天天都是做不完的BAU，但是
+Since Q2, CMB has suddenly become busy. The average daily BAU new task volume is more than 30, which is a brand new challenge for me. With the increase of the tickets, I also take this opportunity to plan and organize the ticket and keep my task accuracy and punctuality within the required range.
+
+In March, I started to contribute to the project of the CMB page developer tool with Wally, Vivi, and Kat. In addition, to support the project, I took this opportunity to learn some skill modes other than BAU.
+
+I am also excited about launching this tool in the future. not only because this is my first attempted project but it can make the business easily raise a new page request
+
+The first half of the year was a period full of challenges for me. Because I was new to Sitecore, I still had a lot of unfamiliarities. Fortunately, the team members were very patient in answering my questions and shared many practical skills with me. I also find ways to increase work efficiency and share it with colleagues to succeed together like our values.
+
+It's been quite a journey this year, and I hope that I will have better progress in the second half of the year, and be able to learn more tools and modes to increase work efficiency. I hope that I have a better understanding of BAU and become a living Wikipedia of CMB
